@@ -1,0 +1,52 @@
+/*CSS File*/
+
+
+
+#logo{
+	float: left;
+}
+
+#buttons{
+	float: right;
+	padding-left:850px;
+}
+
+#President{
+	float: left;
+	
+}
+
+#Pres_bio{
+	float: right;
+	padding-left:50px;
+	text-indent: 50px;
+}
+
+#Vice_President{
+	float: left;
+}
+
+#Vice_Pres_bio{
+	float: right;
+	padding-left: 50px;
+	text-indent: 50px;
+}
+
+
+#Cabinet{
+	float: left;
+}
+
+#Cabinet_Bio{
+	float: right;
+	padding-left: 50px;
+	text-indent: 50px;
+}
+
+#fundraiser{
+	text-align: center;	
+}
+
+#rally{
+	text-align: center;	
+}
